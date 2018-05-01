@@ -3,8 +3,8 @@
 	"packages": [
 		{
 			"name": "aGeneral",
-			"details": "https://github.com/agenciageneral/sublime_text3_plugin",
-			"author": ["agenciageneral", "brunopgoncalves", "scorninpc"],
+			"details": "https://github.com/agenciageneral/sublimetext_ageneral",
+			"author": ["agenciageneral", "scorninpc"],
 			"releases": [
 				{
 					"sublime_text": "*",
