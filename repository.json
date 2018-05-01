@@ -1,0 +1,17 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "aGeneral",
+			"details": "https://github.com/agenciageneral/sublime_text3_plugin",
+			"author": ["agenciageneral", "brunopgoncalves", "scorninpc"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		}
+	]
+}
