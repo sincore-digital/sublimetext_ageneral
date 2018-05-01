@@ -1,9 +1,13 @@
 [{
     "id" : "aGeneral",
-    "caption" : "aGeneral",
+    "caption" : "Agência General",
     "children": [{
-    	"id" : "agPlaceholder",
-		"caption" : "Placeholders (CTRL+ALT+P)",
+		"id" : "agPlaceholder",
+		"caption" : "Placeholders",
 		"command" : "placeholder"
+	},{
+		"id" : "agCreateclasses",
+		"caption" : "Criar Classes",
+		"command" : "createclasses"
 	}]
 }]

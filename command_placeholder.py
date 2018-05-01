@@ -12,7 +12,7 @@ class PlaceholderCommand(sublime_plugin.TextCommand):
 		"""
 	def run(self, edit):
 		# Verifica se é um arquivo CSS
-		if self.view.settings().get("syntax").find("CSS.sublime-syntax"):
+		if self.view.settings().get("syntax").find("CSS.sublime-syntax") > 0:
 			# Recupera o seletor CSS
 			selector = self.view.substr((self.view.sel())[0])
 

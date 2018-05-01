@@ -1,4 +1,8 @@
 [{
 	"keys": ["ctrl+alt+p"],
 	"command": "placeholder",
+},
+{
+	"keys": ["ctrl+alt+o"],
+	"command": "createclasses",
 }]
