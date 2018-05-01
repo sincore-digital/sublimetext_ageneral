@@ -1,0 +1,9 @@
+[{
+    "id" : "aGeneral",
+    "caption" : "aGeneral",
+    "children": [{
+    	"id" : "agPlaceholder",
+		"caption" : "Placeholders (CTRL+ALT+P)",
+		"command" : "placeholder"
+	}]
+}]
