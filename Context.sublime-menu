@@ -9,5 +9,9 @@
 		"id" : "agCreateclasses",
 		"caption" : "Criar Classes",
 		"command" : "createclasses"
+	},{
+		"id" : "agCsscomment",
+		"caption" : "Criar Comentário CSS",
+		"command" : "csscomment"
 	}]
 }]
