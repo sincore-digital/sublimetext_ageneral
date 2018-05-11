@@ -10,6 +10,9 @@ Plugin para o sublime text 3, com algumas funções para agilizar nosso trabalho
 4. Abra novamente o Package Control
 5. Procure por: Package Control: Install Package
 6. Procure por ageneral (sublimetext_ageneral)
+
+[![N|Solid](http://clientes.ageneral.com.br/bruno/github/install.jpg)
+
 7. Instale e desfrute
 
 
